@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank iPay - Hướng Dẫn & Giải Đáp Thắc Mắc",
+  "description": "Cổng thông tin hướng dẫn sử dụng VietinBank iPay: quên mật khẩu, đóng thẻ, cập nhật sinh trắc học CCCD, nộp thuế điện tử và đặt lịch trực tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
